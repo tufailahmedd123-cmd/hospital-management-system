@@ -1,2 +1,20 @@
-# hospital-management-system
-Hospital Management System is a modern, responsive web application designed to streamline hospital operations and patient care management. It features patient registration, doctor management, appointment scheduling, medical records, billing, and an intuitive dashboard for efficient healthcare administration.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/85d6fee8-f79b-4dba-a3f0-021e135ff02c
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

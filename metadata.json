@@ -1,0 +1,6 @@
+{
+  "name": "Hospital Management System",
+  "description": "Smart Healthcare Administration & Patient Management Platform with comprehensive role-based clinical, inpatient, pharmacy, billing, and lab operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
